@@ -1,16 +1,16 @@
 # A-Star-Search-Algorithm
 Python implementation of the A-star search algorithm
       
-        Inputs: 
+Inputs: 
             Graph adjacency data
             Edge weights
             Heuristic values of nodes
             Start and end node 
             
-        Output:
+Output:
             Shortest path with the cost
             
-        Heuristic funciton:
+Heuristic funciton:
         
             f(n): g(n)+h(n)
              
