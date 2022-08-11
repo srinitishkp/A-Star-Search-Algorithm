@@ -12,7 +12,7 @@ Output:
             
       Shortest path with the cost
             
-Heuristic funciton:
+Heuristic function:
         
       f(n): g(n)+h(n)
 
